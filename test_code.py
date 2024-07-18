@@ -2,7 +2,6 @@ a = 10
 b = 20
 c = 30
 
-res = a + b + c
-# can we use sum()
+res = sum([a, b, c])
 
 print(res)
