@@ -1,10 +1,7 @@
-a = 1
-b = 2
-c = a + b
+a = 10
+b = 20
+c = 30
 
-print(c)
+res = a + b + c
 
-# code commit_1 from pycharm
-# code commit_1 from vscode
-# code commit_2 from pycharm
-# code commit_2 from vscode
+print(res)
